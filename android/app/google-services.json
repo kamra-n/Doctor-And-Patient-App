@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352386855104",
+    "project_id": "devathonkamran",
+    "storage_bucket": "devathonkamran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352386855104:android:d27f43e0e1690ed08f3d25",
+        "android_client_info": {
+          "package_name": "com.example.devathone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtxktsyk7xwRaWnfr1dKgvwDckq24TKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
